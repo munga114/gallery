@@ -51,7 +51,7 @@ CSRF_TRUSTED_ORIGINS = http://localhost:8000, https://app-galla.herokuapp.com
 ## LICENSE
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-Copyright (c) 2020 Lennox Omondi
+Copyright (c) 2022 Mungai Mbugua
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

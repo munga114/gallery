@@ -26,7 +26,7 @@ As a user of the application I should be able to:
 
 
 ## Setup Instructions
-- `git init` and run `git remote add origin git@github.com:lenomosh/photo-gallery.git` id you are using SSH or `https://github.com/lenomosh/photo-gallery.git`
+- `git init` and run `git remote add origin `https://github.com/lenomosh/photo-gallery.git`
 -  From the project directory run `conda create --prefix=./env` or `python -m venv virtual`
 - Run `source activate ./env` for conda or `source virtual/bin/activate`
 - run`touch .env` in the root project directory and add the following to your file

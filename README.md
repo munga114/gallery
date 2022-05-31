@@ -1,4 +1,4 @@
-# Photo Gallery
+# Photo Gallery App
 
 ## Description
 A django photo gallery app that give photographers a portfolio to showcase their images to potential clients.

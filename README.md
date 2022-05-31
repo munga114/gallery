@@ -31,7 +31,7 @@ As a user of the application I should be able to:
 - Run `source activate ./env` for conda or `source virtual/bin/activate`
 - run`touch .env` in the root project directory and add the following to your file
 ```
-SECRET_KEY='qqgv=a%hdsemzie05ro=2-6=vxb92%lr&6_c56lovs1p#p3k4cn8v'
+SECRET_KEY=''
 DEBUG=True
 DB_NAME='<your database_name>'
 DB_USER='<your database username>'

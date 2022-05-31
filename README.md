@@ -4,7 +4,7 @@
 A django photo gallery app that gives photographers a portfolio to showcase their images to potential clients.
 
 ### Author
-[Lennox Omondi](https://linkedin.com/in/lenomosh)
+Mungai Mbugua
 ## Technologies used
 - MDBootstrap
 - FancyBox

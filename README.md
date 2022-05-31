@@ -6,7 +6,7 @@ A django photo gallery app that gives photographers a portfolio to showcase thei
 ### Author
 Mungai Mbugua
 ## Technologies used
-- MDBootstra
+- MDBootstrap
 - FancyBox
 - Typed.js
 - Select2

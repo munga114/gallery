@@ -1,7 +1,7 @@
 # Photo Gallery App
 
 ## Description
-A django photo gallery app that give photographers a portfolio to showcase their images to potential clients.
+A django photo gallery app that gives photographers a portfolio to showcase their images to potential clients.
 
 ### Author
 [Lennox Omondi](https://linkedin.com/in/lenomosh)

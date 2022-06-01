@@ -7,6 +7,7 @@ A django photo gallery app that gives photographers a portfolio to showcase thei
 
 ### Author
 Mungai Mbugua
+
 ## Technologies used
 - MDBootstrap
 - FancyBox
@@ -24,7 +25,6 @@ As a user of the application I should be able to:
    - Search for different categories of photos. (ie. Travel, Food)
    - Copy a link to the photo to share with my friends.
    - View photos based on the location they were taken.
-
 
 
 ## Setup Instructions
@@ -47,3 +47,6 @@ DISABLE_COLLECTSTATIC=1
 - Run `python manage.py migrate`
 - Run `python manage.py createsuperuser` and follow the steps provided
 - Your app your be able to start by running `python manage.py runserver`
+
+## Author's Info
+[mungai-mbugua twitter](https://mobile.twitter.com/mungaimbugua4)

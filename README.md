@@ -49,4 +49,4 @@ DISABLE_COLLECTSTATIC=1
 - Your app your be able to start by running `python manage.py runserver`
 
 ## Author's Info
-[mungai-mbugua twitter](https://mobile.twitter.com/mungaimbugua4)
+[Dev Mungai-Mbugua twitter](https://mobile.twitter.com/mungaimbugua4)

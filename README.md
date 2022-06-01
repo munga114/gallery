@@ -2,6 +2,8 @@
 
 ## Description
 A django photo gallery app that gives photographers a portfolio to showcase their images to potential clients.
+## Visit site
+[www.galla-app.com](https://galla-app.herokuapp.com/)
 
 ### Author
 Mungai Mbugua
@@ -26,7 +28,7 @@ As a user of the application I should be able to:
 
 
 ## Setup Instructions
-- `git init` and run `git remote add origin `https://github.com/lenomosh/photo-gallery.git`
+- `git init` and run `git remote add origin `https://github.com/munga114/gallery`
 -  From the project directory run `conda create --prefix=./env` or `python -m venv virtual`
 - Run `source activate ./env` for conda or `source virtual/bin/activate`
 - run`touch .env` in the root project directory and add the following to your file
@@ -38,10 +40,8 @@ DB_USER='<your database username>'
 DB_PASSWORD='<your database password>'
 DB_HOST='127.0.0.1'
 MODE='dev'
-ALLOWED_HOSTS=.localhost, .herokuapp.com, .127.0.0.1
+ALLOWED_HOSTS='*'
 DISABLE_COLLECTSTATIC=1
-CORS_ALLOWED_ORIGINS = http://localhost:8000, https://app-galla.herokuapp.com, http://127.0.0.1:8000
-CSRF_TRUSTED_ORIGINS = http://localhost:8000, https://app-galla.herokuapp.com
 ```
 - Run `pip install -r requirements.txt`
 - Run `python manage.py migrate`

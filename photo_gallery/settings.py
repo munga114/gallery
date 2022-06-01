@@ -17,7 +17,7 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = True
 MODE = config("MODE", default="dev")
 
-ALLOWED_HOSTS = config("ALLOWED_HOSTS",cast=Csv())
+ALLOWED_HOSTS = []
 
 # Application definition
 
@@ -129,4 +129,5 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # Activate Django-Heroku.
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 django_heroku.settings(locals())

@@ -7,6 +7,7 @@ from categories.models import Category
 
 def index(request):
     categories = Category.objects.all()
+    print(categories)
     json_categories = []
     for category in categories:
         image = category.image_set.first()
